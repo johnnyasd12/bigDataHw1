@@ -29,3 +29,4 @@ read dataset and find impotant/unimportant feature
 * numpy
 * sklearn
 ## 5. 課程迄今有無建議? 
+* 暫無
